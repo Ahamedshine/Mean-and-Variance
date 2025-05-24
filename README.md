@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+# Name : Aaron Mariyan A
+# Reg No : 212224040004
 
 # Aim : 
 
